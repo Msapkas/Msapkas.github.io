@@ -10,11 +10,6 @@ author:
   email: "michail.sapkas@phd.unipd.it"
   github: "/Msapkas"
 
-# Disable pagination (Remove Previous/Next buttons)
-paginate: false
-paginator: false
-show_previous_next: false
-
 main:
   - title: "About Me"
     url: /
@@ -24,10 +19,6 @@ main:
     url: /research/
   - title: "Portfolio"
     url: /portfolio/
-
-paginate: false
-paginator: false
-show_previous_next: false
 
 # Navigation bar
 navigation:
@@ -40,23 +31,13 @@ navigation:
   - title: "Portfolio"
     url: /portfolio/
 
-paginate: false
-paginator: false
-show_previous_next: false
-
 collections:
   pages:
     output: true
     permalink: /:name/
-    paginate: false
-    paginator: false
-    show_previous_next: false
 
 # Removes the "Recent Posts" section from the bottom of the main page
 show_recent_posts: false
-paginate: false
-paginator: false
-show_previous_next: false
 
 # Helps with the layout of the page
 defaults:
@@ -66,14 +47,11 @@ defaults:
     values:
       layout: single
 
-paginate: false
-paginator: false
-show_previous_next: false
-
 # To center the content on the page
 sass:
   style: compressed
 
+# Disable pagination (Remove Previous/Next buttons)
 paginate: false
 paginator: false
 show_previous_next: false
