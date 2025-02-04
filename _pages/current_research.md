@@ -15,7 +15,7 @@ ___________________
 
 # AMD Xilinx Versal AI Engine
 
-{% figure caption="A graphical representation the AI Engine Array" %}
+{% include figure caption="A graphical representation the AI Engine Array" %}
     ![AIE Array](/assets/images/aie_array.png)
 {% endfigure %}
 
@@ -23,7 +23,7 @@ With the rise of Artificial Intelligence came also an ever increasing need to co
 
 # Particle Flow for the CMS Trigger 
 
-{% figure caption="Particles "flow" through CMS and need to be tagged and linked" %}
+{% include figure caption="Particles "flow" through CMS and need to be tagged and linked" %}
     ![Particle Flow CMS](/assets/images/pf_cms.png)
 {% endfigure %}
 
@@ -31,7 +31,7 @@ High Energy Physics experiments are a clear instance of extreme application for 
 
 # A Gated Recurrent Unit implementation for the AI Engine
 
-{% figure caption="The Gated Recurrent Unit Cell" %}
+{% include figure caption="The Gated Recurrent Unit Cell" %}
     ![The Gated Recurrent Unit Cell](/assets/images/gru.png)
 {% endfigure %}
 
