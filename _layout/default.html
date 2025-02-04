@@ -7,9 +7,10 @@
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 </head>
 <body>
+  <!-- Navigation Bar -->
   <nav>
     <ul>
-      {% for item in site.navigation %}
+      {% for item in site.data.navigation %}
         <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
       {% endfor %}
     </ul>
@@ -20,6 +21,7 @@
     {{ content }}
   </div>
 
+  <!-- Add your JavaScript -->
   <script src="{{ "/assets/js/app.js" | relative_url }}"></script>
 </body>
 </html>
