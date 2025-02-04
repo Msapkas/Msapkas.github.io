@@ -1,7 +1,7 @@
 /* Add a fade transition for page load */
 body {
     opacity: 0;
-    transition: opacity 0.5s ease-in-out;
+    transition: opacity 1s ease-in-out;
   }
   
   body.loaded {
@@ -11,6 +11,6 @@ body {
   /* Optional: Create a fade-out effect before navigating away */
   .is-exiting {
     opacity: 0;
-    transition: opacity 0.5s ease;
+    transition: opacity 1s ease;
   }
   
