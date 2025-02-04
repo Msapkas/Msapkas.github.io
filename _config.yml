@@ -16,6 +16,9 @@ paginator: false
 show_previous_next: false
 
 main:
+  paginate: false
+  paginator: false
+  show_previous_next: false
   - title: "About Me"
     url: /
   - title: "Education"
@@ -40,9 +43,15 @@ collections:
   pages:
     output: true
     permalink: /:name/
+    paginate: false
+    paginator: false
+    show_previous_next: false
 
 # Removes the "Recent Posts" section from the bottom of the main page
 show_recent_posts: false
+paginate: false
+paginator: false
+show_previous_next: false
 
 # Helps with the layout of the page
 defaults:
@@ -56,4 +65,6 @@ defaults:
 sass:
   style: compressed
 
-
+paginate: false
+paginator: false
+show_previous_next: false
