@@ -10,6 +10,11 @@ author:
   email: "michail.sapkas@phd.unipd.it"
   github: "/Msapkas"
 
+# Disable pagination (Remove Previous/Next buttons)
+paginate: false
+paginator: false
+show_previous_next: false
+
 main:
   - title: "About Me"
     url: /
@@ -51,11 +56,4 @@ defaults:
 sass:
   style: compressed
 
-# Disable pagination (Remove Previous/Next buttons)
-show_previous_next: false
-post_pagination: false
-posts-category: false
-posts-tag: false
-paginate: false
-paginator: false
-related: false
+
