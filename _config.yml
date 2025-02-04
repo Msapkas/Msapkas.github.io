@@ -52,5 +52,5 @@ sass:
   style: compressed
 
 # To remove the "Next" and "Previous" links from the bottom of the page
-paginate: false
+paginator: false
 related: false
