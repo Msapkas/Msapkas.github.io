@@ -1,3 +1,22 @@
-theme: jekyll-theme-minimal
-title: Michail's Homepage. Curriculum Vitae, Research Interests, Photos, Projects.
-description: Bookmark this to keep an eye on my project updates!
+remote_theme: mmistakes/minimal-mistakes
+title: "Michail Sapkas"
+description: "Personal website showcasing my CV, portfolio, projects, and interests."
+author:
+  name: "Michail Sapkas"
+  email: "your.email@example.com"
+  github: "your-github-username"
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/about/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Photos"
+    url: "/photos/"
+  - title: "Interests"
+    url: "/interests/"
+  - title: "Portfolio"
+    url: "/portfolio/"
