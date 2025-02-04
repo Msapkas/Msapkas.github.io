@@ -20,7 +20,7 @@ main:
   - title: "Photos"
     url: /photos/
 
-# Navigation
+# Navigation bar
 navigation:
   - title: "About Me"
     url: /
@@ -36,8 +36,10 @@ collections:
     output: true
     permalink: /:name/
 
+# Removes the "Recent Posts" section from the bottom of the main page
 show_recent_posts: false
 
+# Helps with the layout of the page
 defaults:
   - scope:
       path: ""
@@ -45,5 +47,10 @@ defaults:
     values:
       layout: single
 
+# To center the content on the page
 sass:
   style: compressed
+
+# To remove the "Next" and "Previous" links from the bottom of the page
+paginate: false
+
