@@ -1,0 +1,11 @@
+/* Default state of the page */
+body {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  /* When the page has fully loaded */
+  body.loaded {
+    opacity: 1;
+  }
+  
