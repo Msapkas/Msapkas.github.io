@@ -1,8 +1,6 @@
 ---
 ---
 
-# About Me
-
 ![Mare Nostrum 5](/assets/images/miku_bsc.jpg)
 
 Welcome to my personal page. I am Michail, a PhD student at the University of Padova. I am part of the 

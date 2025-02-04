@@ -7,8 +7,6 @@ layout: single
 
 ___________________
 
-## Welcome to my office!
-
 # AMD Xilinx Versal AI Engine
 
 ![AIE Array](/assets/images/aie_array.png)
