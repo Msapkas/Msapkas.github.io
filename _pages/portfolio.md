@@ -1,10 +1,10 @@
 ---
-layout: single
+
 title: "Portfolio"
 permalink: /portfolio/
+layout: page
 ---
 
-## My Projects  
+# Portfolio
 
-- [Project 1](https://github.com/yourusername/project1)  
-- [Project 2](https://github.com/yourusername/project2)  
+Showcase your work or projects here.
