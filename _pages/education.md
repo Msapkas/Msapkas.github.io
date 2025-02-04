@@ -6,8 +6,11 @@ layout: single
 ---
 ___________________
 
-Here you can download my ![Curriculum Vitae](/assets/CV_30-1-2025_Sapkas_Michail.pdf) in the standard Europass format.
+
+Here you can download my [Curriculum Vitae](/assets/CV_30-1-2025_Sapkas_Michail.pdf){:target="_blank"} in the standard Europass format.
+
 ___________________
+
 
 I received my **Bachelor's degree in Physics** from the University of Crete, Herakleion, Greece.
 
