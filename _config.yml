@@ -4,32 +4,32 @@ plugins:
   - jekyll-include-cache
 
 title: "Michail Sapkas"
-description: "Personal website showcasing my CV, portfolio, projects, and interests."
+description: "Personal website of Michail Sapkas, you can find information about me, my research, my portfolio and some photos."
 author:
   name: "Michail Sapkas"
   email: "michail.sapkas@phd.unipd.it"
   github: "/Msapkas"
 
 main:
-  - title: "Home"
-    url: /
   - title: "About Me"
+    url: /
+  - title: "Current Research"
     url: /about/
-  - title: "Photos"
-    url: /photos/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Photos"
+    url: /photos/
 
 # Navigation
 navigation:
-  - title: Home
+  - title: "About Me"
     url: /
-  - title: About Me
-    url: /about-me/
-  - title: Photos
-    url: /photos/
-  - title: Portfolio
+  - title: "Current Research"
+    url: /about/
+  - title: "Portfolio"
     url: /portfolio/
+  - title: "Photos"
+    url: /photos/
 
 collections:
   pages:
