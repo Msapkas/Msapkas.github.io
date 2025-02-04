@@ -1,11 +1,16 @@
-/* Default state of the page */
+/* Add a fade transition for page load */
 body {
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
   }
   
-  /* When the page has fully loaded */
   body.loaded {
     opacity: 1;
+  }
+  
+  /* Optional: Create a fade-out effect before navigating away */
+  .is-exiting {
+    opacity: 0;
+    transition: opacity 0.5s ease;
   }
   
