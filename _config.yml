@@ -13,8 +13,8 @@ author:
 main:
   - title: "About Me"
     url: /
-  - title: "Current Research"
-    url: /about/
+  - title: "Current Research Interests"
+    url: /research/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Photos"
@@ -24,8 +24,8 @@ main:
 navigation:
   - title: "About Me"
     url: /
-  - title: "Current Research"
-    url: /about/
+  - title: "Current Research Interests"
+    url: /research/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Photos"
