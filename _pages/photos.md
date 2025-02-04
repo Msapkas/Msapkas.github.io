@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Photos
+
+title: "Photos"
 permalink: /photos/
+layout: single
 ---
 
 # Photos Page
