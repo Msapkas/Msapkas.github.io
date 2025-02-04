@@ -2,6 +2,7 @@
 body {
     opacity: 0;
     transition: opacity 1s ease-in-out;
+    padding: 16px;
   }
   
   body.loaded {

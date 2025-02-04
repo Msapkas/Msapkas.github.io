@@ -51,6 +51,7 @@ defaults:
 sass:
   style: compressed
 
-# To remove the "Next" and "Previous" links from the bottom of the page
+# Disable pagination (Remove Previous/Next buttons)
+paginate: false
 paginator: false
 related: false
