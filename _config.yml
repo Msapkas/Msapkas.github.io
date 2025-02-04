@@ -50,8 +50,3 @@ defaults:
 # To center the content on the page
 sass:
   style: compressed
-
-# Disable pagination (Remove Previous/Next buttons)
-paginate: false
-paginator: false
-show_previous_next: false
