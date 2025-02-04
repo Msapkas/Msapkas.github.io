@@ -5,9 +5,7 @@ permalink: /portfolio/
 layout: single
 ---
 
-# Portfolio
-
-Future showcase of my work or projects here.
+Showcase of my work or projects here.
 
 # Master Thesis
 

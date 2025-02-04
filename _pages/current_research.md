@@ -5,6 +5,8 @@ permalink: /research/
 layout: single
 ---
 
+___________________
+
 # AMD Xilinx Versal AI Engine
 
 With the rise of Artificial Intelligence came also an ever increasing need to compute specialized tasks better, faster and more. To tackle the challenges that arise with this new type of workload, AMD Xilinx proposes the Versal Adaptive Computing Accelerating Platform (ACAP). A new accelerator module has been introduced, a 2D array of 400 tiles, the AI Engine, which moves away from the Von Neuman architecture by placing memory and vectorized cores in the same unit (tile). The tiles communicate with interconnects and memory sharing, and the whole Array can access PL resources via interfacing tiles. We explore the capabilities of the AI Engine for physics applications at the edge.
