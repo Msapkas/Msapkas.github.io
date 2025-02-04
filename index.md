@@ -14,6 +14,10 @@ I am currently working with Versal AI Engine, the VCK190 evaluation kit, and the
 
 ___________________
 
-Feel free to explore the rest of my page to learn more about my [education](/education), [portfolio](/portfolio), and [research interests](/research).
+Feel free to explore the rest of my page to learn more about my [education](/education), [portfolio](/portfolio), and [research interests](/research). Here, you can also find my social media profiles. Feel free to browse!
+
+<div class="social-icons">
+  {% include social.html %}
+</div>
 
 Here you can download my [Curriculum Vitae](/assets/cv/CV_30-1-2025_Sapkas_Michail.pdf){:target="_blank"} in the standard Europass format.

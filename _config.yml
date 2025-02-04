@@ -3,7 +3,7 @@ remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
-title: "Michail Sapkas personal website"
+title: "Michail Sapkas"
 description: "Personal website of Michail Sapkas, you can find information about me, my research, my portfolio and some photos."
 author:
   name: "Michail Sapkas"
