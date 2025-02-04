@@ -35,3 +35,13 @@ collections:
   pages:
     output: true
     permalink: /:name/
+
+show_recent_posts: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      classes: wide

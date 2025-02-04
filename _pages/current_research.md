@@ -1,7 +1,8 @@
 ---
+
 title: "Current Research Interests"
 permalink: /research/
-layout: default
+layout: single
 ---
 
 # AMD Xilinx Versal AI Engine
