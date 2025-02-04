@@ -2,7 +2,7 @@
 
 title: "Portfolio"
 permalink: /portfolio/
-layout: page
+layout: default
 ---
 
 # Portfolio
