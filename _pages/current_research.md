@@ -29,10 +29,8 @@ _________________________________________________________
 
 <font size="1">AI Engine Image Credit: introduction_to_the_versal_acap_ai_engine_and_to_its_programming_model_20230428.pdf</font>
 
-//
 
 <font size="1">Particle Flow Image Credit: https://cms-opendata-workshop.github.io/workshop2023-lesson-physics-objects/aio/index.html</font>
 
-//
 
 <font size="1">Gated Recurrent Unit Image Credit: https://www.researchgate.net/figure/Gated-Recurrent-Unit-GRU_fig3_331848495</font>
