@@ -64,11 +64,11 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-- name: Set PAGES_REPO_NWO
-      run: echo "PAGES_REPO_NWO=${GITHUB_REPOSITORY}" >> $GITHUB_ENV
+name: Set PAGES_REPO_NWO
+  run: echo "PAGES_REPO_NWO=${GITHUB_REPOSITORY}" >> $GITHUB_ENV
 
-    - name: Build with Jekyll
-      run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-      env:
-        JEKYLL_ENV: production
-        PAGES_REPO_NWO: ${{ github.repository }}
+name: Build with Jekyll
+  run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+    env:
+      JEKYLL_ENV: production
+      PAGES_REPO_NWO: ${{ github.repository }}
