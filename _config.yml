@@ -13,23 +13,23 @@ author:
 main:
   - title: "About Me"
     url: /
+  - title: "Education"
+    url: /education/
   - title: "Current Research Interests"
     url: /research/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Education"
-    url: /education/
 
 # Navigation bar
 navigation:
   - title: "About Me"
     url: /
+  - title: "Education"
+    url: /education/
   - title: "Current Research Interests"
     url: /research/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Education"
-    url: /education/
 
 collections:
   pages:
