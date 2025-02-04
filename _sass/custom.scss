@@ -1,0 +1,15 @@
+.social-icons {
+    text-align: center;  /* Center the icons */
+    margin-top: 20px;    /* Add spacing above */
+  }
+  
+  .social-icons a {
+    margin: 0 15px;      /* Space out the icons */
+    font-size: 30px;     /* Adjust icon size */
+    color: #0077b5;      /* LinkedIn default color (change as needed) */
+  }
+  
+  .social-icons a:hover {
+    opacity: 0.7;        /* Slightly dim the icons on hover */
+  }
+  
