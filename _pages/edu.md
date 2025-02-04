@@ -22,4 +22,4 @@ This innovative and multidisciplinary program was a great opportunity to learn t
 
 I conducted my Master's Thesis at the **Institute for Data Processing and Electronics (IPE)** at the **Karlsruhe Institute of Technology (KIT)**, Germany, under the supervision of Prof. Michele Caselle and Dr. Luca Scomparin. Their revolutionary work on **Reinforcement Learning** for **Beam Instabilities** at the **Karlsruhe Research Accelerator (KARA)** synchrotron light source and accelerator test facility was a great opportunity to learn about the **AMD Xilinx Versal AI Engine** and to develop **Deep Learning Models** for **Hardware Accelerators**.
 
-![KARA Control Room](kara_control_room_pano.jpg)
+![KARA Control Room](/assets/images/kara_control_room_pano.jpg)
