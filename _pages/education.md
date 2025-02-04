@@ -24,3 +24,11 @@ This innovative and multidisciplinary program was a great opportunity to learn t
 I conducted my Master's Thesis at the **Institute for Data Processing and Electronics (IPE)** at the **Karlsruhe Institute of Technology (KIT)**, Germany, under the supervision of Prof. Michele Caselle and Dr. Luca Scomparin. Their revolutionary work on **Reinforcement Learning** for **Beam Instabilities** at the **Karlsruhe Research Accelerator (KARA)** synchrotron light source and accelerator test facility was a great opportunity to learn about the **AMD Xilinx Versal AI Engine** and to develop **Deep Learning Models** for **Hardware Accelerators**.
 
 ![KARA Control Room](/assets/images/kara_control_room_pano.jpg)
+
+From November 2024, I am enrolled at the national PhD Programme in Technologies for fundamental research in Physics and Astrophysics, at the University of Padova, Italy.
+
+_________________________________________________________
+
+<font size="1">University of Crete Image Credit: https://maps.app.goo.gl/Gb8TaE3A4oV2FXZg8 , Google Maps</font>
+
+<font size="1">University of Padova Image Credit: https://www.pd.infn.it/eng/dove-siamo-2/ , INFN Padova</font>
