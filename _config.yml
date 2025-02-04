@@ -16,9 +16,6 @@ paginator: false
 show_previous_next: false
 
 main:
-  paginate: false
-  paginator: false
-  show_previous_next: false
   - title: "About Me"
     url: /
   - title: "Education"
@@ -27,6 +24,10 @@ main:
     url: /research/
   - title: "Portfolio"
     url: /portfolio/
+
+paginate: false
+paginator: false
+show_previous_next: false
 
 # Navigation bar
 navigation:
@@ -38,6 +39,10 @@ navigation:
     url: /research/
   - title: "Portfolio"
     url: /portfolio/
+
+paginate: false
+paginator: false
+show_previous_next: false
 
 collections:
   pages:
@@ -60,6 +65,10 @@ defaults:
       type: "pages"
     values:
       layout: single
+
+paginate: false
+paginator: false
+show_previous_next: false
 
 # To center the content on the page
 sass:
