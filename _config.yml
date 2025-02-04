@@ -10,17 +10,13 @@ author:
   email: "michail.sapkas@phd.unipd.it"
   github: "/Msapkas"
 
-
-
 # Navigation
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About Me"
-    url: "/about/"
-  - title: "Photos"
-    url: "/photos/"
-  - title: "Interests"
-    url: "/interests/"
-  - title: "Portfolio"
-    url: "/portfolio/"
+navigation:
+  - title: Home
+    url: /
+  - title: About Me
+    url: /about-me/
+  - title: Photos
+    url: /photos/
+  - title: Portfolio
+    url: /portfolio/
