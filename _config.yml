@@ -52,6 +52,7 @@ sass:
   style: compressed
 
 # Disable pagination (Remove Previous/Next buttons)
+show_previous_next: false
 paginate: false
 paginator: false
 related: false
