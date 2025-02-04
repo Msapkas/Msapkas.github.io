@@ -53,6 +53,9 @@ sass:
 
 # Disable pagination (Remove Previous/Next buttons)
 show_previous_next: false
+post_pagination: false
+posts-category: false
+posts-tag: false
 paginate: false
 paginator: false
 related: false
