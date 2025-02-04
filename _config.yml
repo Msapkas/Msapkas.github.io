@@ -17,8 +17,8 @@ main:
     url: /research/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Photos"
-    url: /photos/
+  - title: "Education"
+    url: /education/
 
 # Navigation bar
 navigation:
@@ -28,8 +28,8 @@ navigation:
     url: /research/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Photos"
-    url: /photos/
+  - title: "Education"
+    url: /education/
 
 collections:
   pages:
