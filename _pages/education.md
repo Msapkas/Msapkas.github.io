@@ -31,4 +31,4 @@ I conducted my Master's Thesis at the **Institute for Data Processing and Electr
 
 From November 2024, I am enrolled at the national PhD Programme in Technologies for fundamental research in Physics and Astrophysics, at the University of Padova, Italy.
 
-_________________________________________________________
+___________________
