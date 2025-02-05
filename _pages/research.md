@@ -52,13 +52,13 @@ _________________________________________________________
 
 
 
-<div style="text-align: center; font-size: 15px; color: gray;"> 
-[1] AI Engine Image Credit: introduction_to_the_versal_acap_ai_engine_and_to_its_programming_model_20230428.pdf </div>
+<div style="text-align: left; font-size: 15px; color: gray;"> 
+[1] AI Engine Image Credit: AMD Xilinx </div>
 
-<div style="text-align: center; font-size: 15px; color: gray;"> 
+<div style="text-align: left; font-size: 15px; color: gray;"> 
 [2] Particle Flow Image Credit: https://cms-opendata-workshop.github.io/workshop2023-lesson-physics-objects/aio/index </div>
 
-<div style="text-align: center; font-size: 15px; color: gray;"> 
+<div style="text-align: left; font-size: 15px; color: gray;"> 
 [3] Gated Recurrent Unit Image Credit: https://www.researchgate.net/figure/Gated-Recurrent-Unit-GRU_fig3_331848495 </div>
 
 

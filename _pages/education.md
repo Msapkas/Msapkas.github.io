@@ -46,8 +46,8 @@ I conducted my **Master's Thesis** at the **Institute for Data Processing and El
 ___________________
 
 
-<div style="text-align: center; font-size: 15px; color: gray;"> 
+<div style="text-align: left; font-size: 15px; color: gray;"> 
 [1] University of Crete Image Credit: https://maps.app.goo.gl/Gb8TaE3A4oV2FXZg8 , Google Maps </div>
 
-<div style="text-align: center; font-size: 15px; color: gray;"> 
+<div style="text-align: left; font-size: 15px; color: gray;"> 
 [2] University of Padova Image Credit: https://www.pd.infn.it/eng/dove-siamo-2/ , INFN Padova </div>
