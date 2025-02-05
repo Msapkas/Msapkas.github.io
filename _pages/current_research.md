@@ -2,7 +2,7 @@
 
 title: "Current Research Interests"
 description: "My current academic pursuits and research interests"
-permalink: /research/
+permalink: /http://boostlab.dfa.unipd.it/people/sapkas-michail/
 layout: single
 ---
 

@@ -1,7 +1,7 @@
 ---
 
 title: "Education"
-permalink: /education/
+permalink: /assets/cv/CV_30-1-2025_Sapkas_Michail.pdf
 description: "My academic background and degrees"
 layout: single
 ---
