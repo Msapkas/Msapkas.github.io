@@ -20,7 +20,7 @@ I received my **Bachelor's degree in Physics** from the University of Crete, Her
 <div style="text-align: center; font-size: 12px; color: gray;"> 
 University of Crete Image Credit: https://maps.app.goo.gl/Gb8TaE3A4oV2FXZg8 , Google Maps </div>
 
-
+<br />
 
 In the University of Crete, I had the privilege to learn the classical physics curriculum and also to delve into the modern physics topics. UoC also provided me with the opportunity to conduct more than 30 experiments in the laboratory and to start my first steps in programming with FORTRAN and python. It is also here where I was introduced to Machine Learning and Artificial Intelligence for the first time and it was at this moment that I start contemplating of the potential of these tools in the field of physics.
 
@@ -32,7 +32,7 @@ I continued my studies with a **Master's degree in Physics of Data** from the Un
 <div style="text-align: center; font-size: 12px; color: gray;"> 
 University of Padova Image Credit: https://www.pd.infn.it/eng/dove-siamo-2/ , INFN Padova </div>
 
-
+<br />
 
 This innovative and multidisciplinary program was a great opportunity to learn the latest techniques in data analysis and machine learning, and to apply them in the field of physics. The program was a combination of theoretical and practical work, and it is here where I had the unique opportunity to learn to program embedded and reprogrammable hardware, **Field Programmable Gate Arrays (FPGAs)**. At the same time, I delivered multiple projects with hands on experience in **Deep Learning Models**, and also worked on modern **Tensor Network** techniques inspired by Quantum Information Theory.
 
@@ -41,7 +41,7 @@ I conducted my Master's Thesis at the **Institute for Data Processing and Electr
 ![KARA Control Room](/assets/images/kara_control_room_pano-min.jpg)
 <div style="text-align: center; font-size: 12px; color: gray;"> KARA Control room, Personal Archive </div>
 
-
+<br />
 
 From November 2024, I am enrolled at the national PhD Programme in Technologies for fundamental research in Physics and Astrophysics, at the University of Padova, Italy.
 
