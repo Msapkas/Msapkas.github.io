@@ -3,6 +3,7 @@ header:
   title: "Portfolio"
 description: "Short description of my past projects and work followed by links to the full descriptions in github repositories"
 layout: single
+permalink: /portfolio/
 ---
 
 ___________________
