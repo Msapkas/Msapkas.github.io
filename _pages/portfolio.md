@@ -20,17 +20,18 @@ Showcase of my work or projects here.
 
 ___________________
 
-# Distributed Computing using four Nvidia Jetson Nanos
+# Project
+### [Distributed Computing using four Nvidia Jetson Nanos](https://github.com/Msapkas/Distributed-Computing-for-Physics-Simulation-and-Computation){:target="_blank"}
 
 This project is a demonstrator for the use of **distributed computing** for physics simulations by connecting four Jetson Nano devices via a network switch and leveraging **Dask** to distribute computational loads.
 
-![Connected Jetsons](jet.jpg)
+![Connected Jetsons](/assets/images/jet.jpg)
 
 Two simulations were implemented:
 
 - 2D Ising Model: The simulation models the evolution of a spin lattice using the Metropolis algorithm, where multiple grids are distributed across multiple computing nodes, enabling parallel updates.
 
-![Parallel 2D Ising Model](/assets/images/parall_energ-min.jpg)
+![Parallel 2D Ising Model](/assets/images/parall_energ-min.png)
 
 - 1D Particle Chain: A thermodynamic simulation of a 1D chain of particles, where various physical properties (e.g. energy, temperature) are computed, by simulating a huge chain with smaller parallel subchain chunks.
 
