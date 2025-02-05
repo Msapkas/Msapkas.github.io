@@ -1,7 +1,6 @@
 ---
-
 title: "Current Research Interests"
-permalink: https://msapkas.github.io/research/
+permalink: /research/
 description: "My current academic pursuits and research interests"
 layout: single
 ---

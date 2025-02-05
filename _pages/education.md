@@ -1,10 +1,10 @@
 ---
-
 title: "Education"
-permalink: https://msapkas.github.io/education/
+permalink: /education/
 description: "My academic background and degrees"
 layout: single
 ---
+
 ___________________
 
 

@@ -1,10 +1,10 @@
 ---
-
 title: "Portfolio"
-permalink: https://msapkas.github.io/portfolio/
+permalink: /portfolio/
 description: "Short description of my past projects and work followed by links to the full descriptions in github repositories"
 layout: single
 ---
+
 ___________________
 
 Showcase of my work or projects here.

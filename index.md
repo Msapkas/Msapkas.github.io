@@ -1,12 +1,5 @@
 ---
-
-title: ""
-header:
-  title: ""
-
 ---
-
-# About Me
 
 Welcome to my personal page. I am **Michail**, a **PhD student** at the **University of Padova**.
 
