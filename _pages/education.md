@@ -9,7 +9,10 @@ permalink: /education/
 ___________________
 
 You can view and download my [Curriculum Vitae](/assets/cv/CV_30-1-2025_Sapkas_Michail.pdf){:target="_blank"} in the standard Europass format. <br/>
+
+
 ___________________
+
 
 I received my **Bachelor's degree in Physics** from the University of Crete, Herakleion, Greece.
 
