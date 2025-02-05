@@ -1,10 +1,11 @@
 ---
 
-layout: home
 header:
   title: ""
 
 ---
+
+# About me
 
 Welcome to my personal page. I am **Michail**, a **PhD student** at the **University of Padova**.
 
