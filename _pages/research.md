@@ -6,7 +6,7 @@ layout: single
 permalink: /research/
 ---
 
-A brief introduction on the topis that I am currently working on.<br/>
+A brief introduction on the topics that I am currently working on.<br/>
 
 
 ___________________
