@@ -5,7 +5,8 @@ plugins:
   - jekyll-sitemap
 
 title: "Michail Sapkas (Μιχαήλ Σάπκας)"
-description: "Personal website of Michail Sapkas (Μιχαήλ Σάπκας), PhD, University of Padova , you can find information about me, my research, my portfolio and some photos. "
+description: "description: "Michail Sapkas (Μιχαήλ Σάπκας), PhD at the University of Padova. Researcher in Hardware Accelerators for Edge AI, exploring Particle Physics in CMS Experiment at CERN. Discover my research, portfolio, and education background."
+"
 author:
   name: "Michail Sapkas (Μιχαήλ Σάπκας)"
   email: "michail.sapkas@phd.unipd.it"
@@ -14,23 +15,15 @@ author:
 links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/michail-sapkas-270006223"
+      url: "https://www.linkedin.com/in/michail-sapkas-270006223"
+
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Msapkas"
+
     - label: "Instagram"
       icon: "fab fa-instagram"
       url: "https://www.instagram.com/michail.sapkas/"
-
-main:
-  - title: "About Me"
-    url: /
-  - title: "Education"
-    url: /education/
-  - title: "Current Research Interests"
-    url: /research/
-  - title: "Portfolio"
-    url: /portfolio/
 
 # Navigation bar
 navigation:
@@ -39,14 +32,14 @@ navigation:
   - title: "Education"
     url: /education/
   - title: "Current Research Interests"
-    url: /research/
+    url: /current_research/
   - title: "Portfolio"
     url: /portfolio/
 
 collections:
   pages:
     output: true
-    permalink: /:name/
+    permalink: /:title/
 
 # Removes the "Recent Posts" section from the bottom of the main page
 show_recent_posts: false
@@ -56,11 +49,15 @@ paginate: false  # Disable pagination
 # Helps with the layout of the page
 defaults:
   - scope:
+      path: "index.md"
+    values:
+      layout: home
+
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: single
 
-# To center the content on the page
 sass:
-  style: compressed
+  style: compressed  # Compress CSS for faster load times
