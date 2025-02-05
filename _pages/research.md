@@ -6,7 +6,9 @@ layout: single
 permalink: /research/
 ---
 
-A brief introduction on the topis that I am currently working on.
+A brief introduction on the topis that I am currently working on.<br/>
+
+
 ___________________
 
 # AMD Xilinx Versal AI Engine
