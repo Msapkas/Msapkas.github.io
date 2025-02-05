@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome to my personal page. I am **Michail** (Μιχαήλ), a physicist and a **PhD student** at the **University of Padova**. If you'd like to know more about my skill set and educational background, please visit [my education](/education) page.
+Welcome to my personal page. I am **Michail**, a trained physicist and a **PhD student** at the **University of Padova**. If you'd like to know more about my skill set and educational background, please visit [my education](/education) page.
 
 ![Mare Nostrum 5](/assets/images/miku_bsc-min.jpg)
 
