@@ -14,7 +14,7 @@ You can view and download my [Curriculum Vitae](/assets/cv/CV_30-1-2025_Sapkas_M
 ___________________
 
 
-I received my **Bachelor's degree in Physics** from the University of Crete, Herakleion, Greece.
+I received my **Bachelor's degree in Physics** from the University of Crete, Heraklion, Greece.
 
 ![University of Crete](/assets/images/uoc_physics-min.jpg)
 <div style="text-align: center; font-size: 12px; color: gray;"> 
