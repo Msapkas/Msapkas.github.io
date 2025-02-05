@@ -1,7 +1,6 @@
 ---
 
-header:
-  title: "About Me"
+title: "About Me"
 
 ---
 
