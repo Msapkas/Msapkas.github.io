@@ -5,27 +5,26 @@ plugins:
   - jekyll-sitemap
 
 title: "Michail Sapkas (Μιχαήλ Σάπκας)"
-description: "description: "Michail Sapkas (Μιχαήλ Σάπκας), PhD at the University of Padova. Researcher in Hardware Accelerators for Edge AI, exploring Particle Physics in CMS Experiment at CERN. Discover my research, portfolio, and education background."
-"
+description: "Michail Sapkas (Μιχαήλ Σάπκας), PhD at the University of Padova. Researcher in Hardware Accelerators for Edge AI, exploring Particle Physics in CMS Experiment at CERN. Discover my research, portfolio, and education background."
+
 author:
   name: "Michail Sapkas (Μιχαήλ Σάπκας)"
   email: "michail.sapkas@phd.unipd.it"
   github: "/Msapkas"
 
+# Social Media Links
 links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/michail-sapkas-270006223"
+  - label: "LinkedIn"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/michail-sapkas-270006223"
+  - label: "GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/Msapkas"
+  - label: "Instagram"
+    icon: "fab fa-instagram"
+    url: "https://www.instagram.com/michail.sapkas/"
 
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Msapkas"
-
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://www.instagram.com/michail.sapkas/"
-
-# Navigation bar
+# Navigation Bar
 navigation:
   - title: "About Me"
     url: /
@@ -36,17 +35,18 @@ navigation:
   - title: "Portfolio"
     url: /portfolio/
 
+# Page Settings
 collections:
   pages:
     output: true
     permalink: /:title/
 
-# Removes the "Recent Posts" section from the bottom of the main page
+# Remove "Recent Posts" from Home Page
 show_recent_posts: false
-show_excerpts: false  # Disable post previews
-paginate: false  # Disable pagination
+show_excerpts: false  
+paginate: false  
 
-# Helps with the layout of the page
+# Layout Settings
 defaults:
   - scope:
       path: "index.md"
@@ -59,5 +59,6 @@ defaults:
     values:
       layout: single
 
+# CSS Optimization
 sass:
   style: compressed  # Compress CSS for faster load times
