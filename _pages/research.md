@@ -3,7 +3,7 @@ header:
   title: "Current Research Interests"
 description: "My current academic pursuits and research interests"
 layout: single
-permalink: /current_research/
+permalink: /research/
 ---
 ___________________
 
