@@ -1,7 +1,7 @@
 ---
 
 title: "Education"
-permalink: /assets/cv/CV_30-1-2025_Sapkas_Michail.pdf
+permalink: https://msapkas.github.io/education/
 description: "My academic background and degrees"
 layout: single
 ---
