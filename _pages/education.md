@@ -13,6 +13,7 @@ You can view and download my [Curriculum Vitae](/assets/cv/CV_30-1-2025_Sapkas_M
 
 ___________________
 
+Since November 2024, I have been enrolled in the **National PhD Program** in Technologies for Fundamental Research in Physics and Astrophysics at the **University of Padova, Italy**.
 
 I received my **Bachelor's degree in Physics** from the University of Crete, Heraklion, Greece.
 
@@ -41,8 +42,6 @@ I conducted my **Master's Thesis** at the **Institute for Data Processing and El
 <div style="text-align: center; font-size: 15px; color: gray;"> KARA Control room, Personal Archive. </div>
 
 <br />
-
-Since November 2024, I have been enrolled in the **National PhD Program** in Technologies for Fundamental Research in Physics and Astrophysics at the **University of Padova, Italy**.
 
 ___________________
 
