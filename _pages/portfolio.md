@@ -9,7 +9,7 @@ ___________________
 
 Showcase of my work or projects here.
 
-# Master Thesis
+## Master Thesis
 ### [Beam Control with Fast Reinforcement Learning Inference at the Edge](\assets\thesis\Sapkas_Michail_Beam_Control_with_Fast_Reinforcement_Learning_Inference_at_the_Edge.pdf){:target="_blank"}
 
 - Trying to modulate the RF cavity of a Synchrotron Light Source by leveraging Reinforcement Learning, resulted in a hardware implementation of a model that belongs to the family of Recurrent Neural Networks (RNNs), the Gated Recurrent Unit (GRU). The implementation was realized on the Versal AI Engine, which is a novel architecture launched by AMD Xilinx and extremely efficient in performing the main numerical operations needed by the model, namely Matrix - Vector multiplications.
@@ -20,7 +20,7 @@ Showcase of my work or projects here.
 
 ___________________
 
-# Project
+## Management of Physics Datasets Project
 ### [Distributed Computing using four Nvidia Jetson Nanos](https://github.com/Msapkas/Distributed-Computing-for-Physics-Simulation-and-Computation){:target="_blank"}
 
 This project is a demonstrator for the use of **distributed computing** for physics simulations by connecting four Jetson Nano devices via a network switch and leveraging **Dask** to distribute computational loads.
@@ -38,7 +38,7 @@ Two simulations were implemented:
 ___________________
 
 
-# Bachelor Thesis
+## Bachelor Thesis
 ### [Gaussian Beam Tracing in Underwater Acoustics](\assets\thesis\Gaussian Beam Tracing in Undewater Acoustics - Theory and Applications - Michail Sapkas.pdf){:target="_blank"}
 
 - Underwater acoustics is the study of sound in water, typically using hydrophones to detect pressure variations or actively generating sound for information acquisition. Unlike electromagnetic waves, sound propagates effectively in water, making it valuable for applications such as seismology, biological monitoring, ocean temperature measurement, and underwater communication.
