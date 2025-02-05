@@ -5,7 +5,7 @@ Welcome to my personal page. I am **Michail**, a trained physicist and a **PhD s
 
 ![Mare Nostrum 5](/assets/images/miku_bsc-min.jpg)
 
-I am part of the [BOOST Lab](http://boostlab.dfa.unipd.it), our interest is mainly focused in particle physics and in particular in the **CMS experiment** at **CERN**, but I am also exploring the capabilities of **hardware accelerators for AI applications** at the edge for physics experiments. 
+I am part of the [BOOST Lab](http://boostlab.dfa.unipd.it) group, our interest is mainly focused in particle physics and in particular in the **CMS experiment** at **CERN**, but I am also exploring the capabilities of **hardware accelerators for AI applications** at the edge for physics experiments. 
 
 I am currently working with the **Versal AI Engine**, the **VCK190 evaluation board**, and the **Vitis Unified** Software Platform to develop algorithms like the CMS trigger **Particle Flow**, and artificial intelligence models like the **Gated Recurrent Unit (GRU)**. To know more, please visit [my current research interests](/research) page.
 
