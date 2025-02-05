@@ -12,12 +12,12 @@ description: "Michail Sapkas (Μιχαήλ Σάπκας), PhD at the University 
 logo: /assets/images/infn-min.png
 
 author:
-  name: "Social Media and Contact Information"
+  name: "Contact and Social"
   location: "Padova, Italy (Mostly)"
   email: "michail.sapkas@phd.unipd.it"
-  github: "https://github.com/Msapkas"
-  linkedin: "https://www.linkedin.com/in/michail-sapkas-270006223"
-  instagram: "https://www.instagram.com/michail.sapkas/"
+  github: "/Msapkas"
+  linkedin: "/michail-sapkas-270006223"
+  instagram: "michail.sapkas/"
 
 # Site Settings
 url: "https://msapkas.github.io"
