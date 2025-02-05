@@ -51,7 +51,7 @@ defaults:
   - scope:
       path: "index.md"
     values:
-      layout: home
+      layout: single
 
   - scope:
       path: ""
