@@ -1,5 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap
@@ -7,10 +9,21 @@ plugins:
 title: "Michail Sapkas (Μιχαήλ Σάπκας)"
 description: "Michail Sapkas (Μιχαήλ Σάπκας), PhD at the University of Padova. Researcher in Hardware Accelerators for Edge AI, exploring Particle Physics in CMS Experiment at CERN. Discover my research, portfolio, and education background."
 
+logo: /assets/images/infn-min.png
+
 author:
-  name: "Michail Sapkas (Μιχαήλ Σάπκας)"
+  name: "Social Media and Contact Information"
+  location: "Padova, Italy (Mostly)"
   email: "michail.sapkas@phd.unipd.it"
-  github: "/Msapkas"
+  github: "https://github.com/Msapkas"
+  linkedin: "https://www.linkedin.com/in/michail-sapkas-270006223"
+  instagram: "https://www.instagram.com/michail.sapkas/"
+
+# Site Settings
+url: "https://msapkas.github.io"
+baseurl: "/"
+permalink: pretty
+timezone: "Europe/Rome"
 
 # Social Media Links
 links:
