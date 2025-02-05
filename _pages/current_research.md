@@ -1,6 +1,6 @@
 ---
-title: "Current Research Interests"
-permalink: /research/
+header:
+  title: "Current Research Interests"
 description: "My current academic pursuits and research interests"
 layout: single
 ---

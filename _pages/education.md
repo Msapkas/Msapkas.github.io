@@ -1,6 +1,6 @@
 ---
-title: "Education"
-permalink: /education/
+header:
+  title: "Education"
 description: "My academic background and degrees"
 layout: single
 ---
