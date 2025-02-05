@@ -5,7 +5,6 @@ description: "My current academic pursuits and research interests"
 layout: single
 permalink: /current_research/
 ---
-
 ___________________
 
 # AMD Xilinx Versal AI Engine

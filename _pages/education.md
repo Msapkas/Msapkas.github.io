@@ -3,6 +3,7 @@ header:
   title: "Education"
 description: "My academic background and degrees"
 layout: single
+permalink: /education/
 ---
 
 ___________________
