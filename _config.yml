@@ -52,6 +52,7 @@ defaults:
       path: "index.md"
     values:
       layout: single
+      author_profile: true
 
   - scope:
       path: ""
