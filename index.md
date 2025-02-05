@@ -1,6 +1,9 @@
 ---
 
-title: "About Me"
+layout: home
+title: ""
+header:
+  title: "About Me"
 
 ---
 
