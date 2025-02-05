@@ -14,7 +14,7 @@ ___________________
 # AMD Xilinx Versal AI Engine
 
 ![AIE Array](/assets/images/aie_array-min.png)
-<div style="text-align: center; font-size: 12px; color: gray;"> 
+<div style="text-align: center; font-size: 15px; color: gray;"> 
 [1] A graphical representation of the AI Engine Array. </div>
 
 <br />
@@ -29,7 +29,7 @@ We explore the capabilities of the AI Engine for physics applications at the edg
 # Particle Flow for the CMS Trigger 
 
 ![Particle Flow CMS](/assets/images/pf_cms-min.png)
-<div style="text-align: center; font-size: 12px; color: gray;"> 
+<div style="text-align: center; font-size: 15px; color: gray;"> 
 [2] Particles that interact (aka "Collide") at the crossing of the proton beams, create a shower of particles
 that travel through the CMS sub detectors. First the Inner Tracker, then the Calorimeters and finally the Muon detector. We 
 need to be able to Trigger Data Acquisition in less than the collision rate, which is 25 nanoseconds. </div>
@@ -41,7 +41,7 @@ High Energy Physics experiments are a clear instance of extreme application for 
 # A Gated Recurrent Unit implementation for the AI Engine
 
 ![The Gated Recurrent Unit Cell](/assets/images/gru-min.png)
-<div style="text-align: center; font-size: 12px; color: gray;"> 
+<div style="text-align: center; font-size: 15px; color: gray;"> 
 The Gated Recurrent Unit (GRU) Cell is a graphical representation of the numerical operations of the model. [3] </div>
 
 <br />
@@ -52,13 +52,13 @@ _________________________________________________________
 
 
 
-<div style="text-align: center; font-size: 12px; color: gray;"> 
+<div style="text-align: center; font-size: 15px; color: gray;"> 
 [1] AI Engine Image Credit: introduction_to_the_versal_acap_ai_engine_and_to_its_programming_model_20230428.pdf </div>
 
-<div style="text-align: center; font-size: 12px; color: gray;"> 
+<div style="text-align: center; font-size: 15px; color: gray;"> 
 [2] Particle Flow Image Credit: https://cms-opendata-workshop.github.io/workshop2023-lesson-physics-objects/aio/index </div>
 
-<div style="text-align: center; font-size: 12px; color: gray;"> 
+<div style="text-align: center; font-size: 15px; color: gray;"> 
 [3] Gated Recurrent Unit Image Credit: https://www.researchgate.net/figure/Gated-Recurrent-Unit-GRU_fig3_331848495 </div>
 
 

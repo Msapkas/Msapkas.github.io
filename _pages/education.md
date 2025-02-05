@@ -17,7 +17,7 @@ ___________________
 I received my **Bachelor's degree in Physics** from the University of Crete, Heraklion, Greece.
 
 ![University of Crete](/assets/images/uoc_physics-min.jpg)
-<div style="text-align: center; font-size: 12px; color: gray;"> (a lot of nice memories in...) The main entrance of the Physics and Biology Departments of the University of Crete at Voutes, Heraklion. </div>
+<div style="text-align: center; font-size: 15px; color: gray;"> (a lot of nice memories in...) The main entrance of the Physics and Biology Departments of the University of Crete at Voutes, Heraklion. </div>
 
 <br />
 
@@ -28,7 +28,7 @@ My **Bachelor's Thesis** was on a niche topic of Applied Mathematics, **Ray Trac
 I continued my studies with a **Master's degree** in **Physics of Data** from the **University of Padova, Italy**.
 
 ![University of Padova](/assets/images/dfa.jpg)
-<div style="text-align: center; font-size: 12px; color: gray;"> 
+<div style="text-align: center; font-size: 15px; color: gray;"> 
 [2] The main entrance of Dipartimento di Fisica e Astronomia G. Galilei, Università Degli Studi di Padova. </div>
 
 <br />
@@ -38,7 +38,7 @@ This innovative and **multidisciplinary program** was a great opportunity to lea
 I conducted my **Master's Thesis** at the **Institute for Data Processing and Electronics (IPE)** at the **Karlsruhe Institute of Technology (KIT)**, Germany, under the supervision of Prof. Michelle Caselle and Dr. Luca Scomparin. Their revolutionary work on **Reinforcement Learning** for **Beam Instabilities** at the **Karlsruhe Research Accelerator (KARA)** synchrotron light source and accelerator test facility was a great opportunity to learn the ways of the **AMD Xilinx Versal AI Engine** and to develop **Deep Learning Models** for this specific architecture.
 
 ![KARA Control Room](/assets/images/kara_control_room_pano-min.jpg)
-<div style="text-align: center; font-size: 12px; color: gray;"> KARA Control room, Personal Archive. </div>
+<div style="text-align: center; font-size: 15px; color: gray;"> KARA Control room, Personal Archive. </div>
 
 <br />
 
@@ -47,8 +47,8 @@ Since November 2024, I have been enrolled in the **National PhD Program** in Tec
 ___________________
 
 
-<div style="text-align: center; font-size: 12px; color: gray;"> 
+<div style="text-align: center; font-size: 15px; color: gray;"> 
 [1] University of Crete Image Credit: https://maps.app.goo.gl/Gb8TaE3A4oV2FXZg8 , Google Maps </div>
 
-<div style="text-align: center; font-size: 12px; color: gray;"> 
+<div style="text-align: center; font-size: 15px; color: gray;"> 
 [2] University of Padova Image Credit: https://www.pd.infn.it/eng/dove-siamo-2/ , INFN Padova </div>
