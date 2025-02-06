@@ -9,7 +9,7 @@ plugins:
   - jekyll-sitemap
 
 title: "Michail Sapkas (Μιχαήλ Σάπκας)"
-description: "Michail Sapkas (Μιχαήλ Σάπκας), PhD at the University of Padova. Researcher in Hardware Accelerators for Edge AI, exploring Particle Physics in CMS Experiment at CERN. Discover my research, portfolio, and education background."
+description: "Michail Sapkas (Μιχαήλ Σάπκας), PhD at the University of Padova. Researcher in Edge AI & Hardware Accelerators, exploring Particle Physics in CMS at CERN"
 
 logo: /assets/images/infn-min.png
 
