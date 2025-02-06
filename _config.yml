@@ -15,7 +15,7 @@ logo: /assets/images/infn-min.png
 
 author:
   name: "Contact and Social"
-  location: "Padova, Italy (Mostly)"
+  location: "Padova, Veneto, Italy"
   email: "michail.sapkas@phd.unipd.it"
   github: "/Msapkas"
   linkedin: "/michail-sapkas-270006223"
@@ -78,8 +78,3 @@ defaults:
 # CSS Optimization
 sass:
   style: compressed  # Compress CSS for faster load times
-
-# Removes the "Recent Posts" section from the bottom of the main page
-show_recent_posts: false
-show_excerpts: false  # Disable post previews
-paginate: false  # Disable pagination
