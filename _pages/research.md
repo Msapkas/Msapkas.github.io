@@ -51,7 +51,6 @@ Physics experiments can greatly benefit from inference models, either for detect
 _________________________________________________________
 
 
-
 <div style="text-align: left; font-size: 15px; color: gray;"> 
 [1] AI Engine Image Credit: AMD Xilinx </div>
 
@@ -60,6 +59,3 @@ _________________________________________________________
 
 <div style="text-align: left; font-size: 15px; color: gray;"> 
 [3] Gated Recurrent Unit Image Credit: https://www.researchgate.net/figure/Gated-Recurrent-Unit-GRU_fig3_331848495 </div>
-
-
-

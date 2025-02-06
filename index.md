@@ -13,4 +13,4 @@ I am part of the [BOOST Lab](http://boostlab.dfa.unipd.it) group, our interest i
 I am currently working with the **Versal AI Engine**, the **VCK190 evaluation board**, and the **Vitis Unified** Software Platform to develop algorithms like the CMS trigger **Particle Flow**, and artificial intelligence models like the **Gated Recurrent Unit (GRU)**. To know more, please visit [my current research interests](/research) page.
 
 ![With the Versal AI Engine VCK190 Evaluation Kit](/assets/images/miku_versal-min.png)
-<div style="text-align: center; font-size: 15px; color: gray;"> Me and my friend V!, in my temporary office at IPE. </div>
+<div style="text-align: center; font-size: 15px; color: gray;"> Me and my friend V! in my temporary office at IPE. </div>

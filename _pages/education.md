@@ -18,7 +18,7 @@ Since November 2024, I have been enrolled in the **National PhD Program** in Tec
 I received my **Bachelor's degree in Physics** from the University of Crete, Heraklion, Greece.
 
 ![University of Crete](/assets/images/uoc_physics-min.jpg)
-<div style="text-align: center; font-size: 15px; color: gray;"> (a lot of nice memories in...) The main entrance of the Physics and Biology Departments of the University of Crete at Voutes, Heraklion. </div>
+<div style="text-align: center; font-size: 15px; color: gray;"> The main entrance of the Physics and Biology Departments of the University of Crete at Voutes, Heraklion. </div>
 
 <br />
 
