@@ -8,6 +8,10 @@ permalink: /research/
 
 A brief introduction on the topics that I am currently working on.<br/>
 
+![Poster Torino](/assets/images/poster_torino.png)
+<div style="text-align: center; font-size: 15px; color: gray;"> Poster </div>
+
+<br />
 
 ___________________
 
