@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome to my personal page. I am **Michail**, a trained physicist and a **PhD student** at the **University of Padova**.
+Welcome to my personal page. I am **Michail**, a trained physicist and **PhD student** at the **University of Padova**.
 
 ![Mare Nostrum 5](/assets/images/miku_bsc-min.jpg)
 <div style="text-align: center; font-size: 15px; color: gray;"> Visiting Mare Nostrum 5 at the Barcelona Supercomputing Center. </div>
