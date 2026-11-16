@@ -22,10 +22,10 @@ permalink: /talks/
 <p class="sj-section-title"><strong>A talk at CERN</strong></p>
 
 <div class="sj-video sj-reveal">
-  <iframe src="https://www.youtube.com/embed/0G2Np1h4uVM" title="Michail Sapkas, talk at CERN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
+  <iframe src="https://videos.cern.ch/video/LECTURES-VIDEO-2026-835-001" title="Michail Sapkas, talk at CERN" scrolling="no" allowfullscreen loading="lazy"></iframe>
 </div>
 
-<p class="sj-reveal" style="margin-top:.6rem">Higher-definition recording with more camera angles on the CERN Document Server: <a class="sj-btn" href="https://cds.cern.ch/record/2932736" target="_blank" rel="noopener">Watch on CERN CDS &rarr;</a></p>
+<p class="sj-reveal" style="margin-top:.6rem">Also available on <a href="https://www.youtube.com/watch?v=0G2Np1h4uVM" target="_blank" rel="noopener">YouTube</a>, and on the <a href="https://cds.cern.ch/record/2932736" target="_blank" rel="noopener">CERN Document Server</a>.</p>
 
 <p class="sj-section-title"><strong>All talks and posters</strong></p>
 
