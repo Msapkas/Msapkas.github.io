@@ -21,14 +21,11 @@ permalink: /talks/
 
 <p class="sj-section-title"><strong>A talk at CERN</strong></p>
 
-<!--
-  To add the CERN video, replace the placeholder below with:
-  <div class="sj-video"><iframe src="https://www.youtube.com/embed/VIDEO_ID" title="Talk at CERN" allowfullscreen loading="lazy"></iframe></div>
--->
-<div class="sj-placeholder sj-reveal">
-  <h3>Talk at CERN: video coming soon</h3>
-  <p>The recording will appear here.</p>
+<div class="sj-video sj-reveal">
+  <iframe src="https://www.youtube.com/embed/0G2Np1h4uVM" title="Michail Sapkas, talk at CERN" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen loading="lazy"></iframe>
 </div>
+
+<p class="sj-reveal" style="margin-top:.6rem">Higher-definition recording with more camera angles on the CERN Document Server: <a class="sj-btn" href="https://cds.cern.ch/record/2932736" target="_blank" rel="noopener">Watch on CERN CDS &rarr;</a></p>
 
 <p class="sj-section-title"><strong>All talks and posters</strong></p>
 
