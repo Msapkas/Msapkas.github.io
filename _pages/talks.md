@@ -29,6 +29,8 @@ permalink: /talks/
 
 <p class="sj-section-title"><strong>All talks and posters</strong></p>
 
+<p class="sj-reveal" style="margin:0 0 .6rem">Also see <a href="/conferences/">Conferences &amp; workshops</a> for the full list of events.</p>
+
 <div class="sj-timeline">
   <div class="sj-tl"><small>1 Apr 2026</small><h4><span class="sj-kind">Talk</span>Deploying Recurrent Neural Networks on AMD FPGAs: A GRU Implementation on the Versal AI Engine &mdash; RL4AA'26, Liverpool (20 min)</h4></div>
   <div class="sj-tl"><small>31 Mar 2026</small><h4><span class="sj-kind">Poster</span>Designing a Gated Recurrent Unit in the Versal AI Engines &mdash; RL4AA'26, Liverpool</h4></div>

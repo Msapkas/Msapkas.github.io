@@ -1,5 +1,5 @@
 ---
-title: "Michail Sapkas | PhD Physicist in Edge AI and FPGAs, University of Padova"
+title: "Michail Sapkas, PhD Physicist in Edge AI and FPGAs"
 description: "Michail Sapkas, PhD researcher at the University of Padova and INFN Padova. Edge AI, FPGAs and the AMD Versal AI Engine for CERN and CMS particle physics, plus reinforcement learning for accelerators."
 layout: single
 author_profile: true
@@ -74,6 +74,13 @@ My work sits at the point where physics needs decisions in nanoseconds: running 
     <img src="/assets/images/miku_bsc-min.jpg" alt="Mare Nostrum 5 at the Barcelona Supercomputing Center" style="border-radius:12px;margin-bottom:.6rem">
     <p>Visiting Mare Nostrum 5 at the Barcelona Supercomputing Center.</p>
   </div>
+</div>
+
+<div class="sj-more sj-reveal">
+  <span>More:</span>
+  <a href="/conferences/">Conferences &amp; workshops</a>
+  <a href="/education/">Education</a>
+  <a href="/cv/">CV</a>
 </div>
 
 </div>

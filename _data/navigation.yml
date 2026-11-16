@@ -7,11 +7,7 @@ main:
     url: /portfolio/
   - title: "Publications"
     url: /publications/
-  - title: "Talks & Posters"
+  - title: "Talks"
     url: /talks/
-  - title: "Conferences"
-    url: /conferences/
-  - title: "Education"
-    url: /education/
   - title: "CV"
     url: /cv/

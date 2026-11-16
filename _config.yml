@@ -9,6 +9,7 @@ plugins:
   - jekyll-sitemap
 
 title: "Michail Sapkas (Μιχαήλ Σάπκας)"
+masthead_title: "Michail Sapkas"
 locale: "en-US"
 og_image: "/assets/images/miku_versal-min.png"
 description: "Michail Sapkas (Μιχαήλ Σάπκας), PhD at the University of Padova. Researcher in Edge AI & Hardware Accelerators, exploring Particle Physics in CMS at CERN"
@@ -53,12 +54,8 @@ navigation:
     url: /portfolio/
   - title: "Publications"
     url: /publications/
-  - title: "Talks & Posters"
+  - title: "Talks"
     url: /talks/
-  - title: "Conferences"
-    url: /conferences/
-  - title: "Education"
-    url: /education/
   - title: "CV"
     url: /cv/
 
