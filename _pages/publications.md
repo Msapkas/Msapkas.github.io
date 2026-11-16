@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: "Journal papers, conference proceedings, and theses"
+description: "Michail Sapkas publications: a JINST 2026 paper on GRU inference in the Versal AI Engine, TWEPP 2025 proceedings and theses."
 layout: single
 permalink: /publications/
 ---

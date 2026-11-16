@@ -9,12 +9,16 @@ plugins:
   - jekyll-sitemap
 
 title: "Michail Sapkas (Μιχαήλ Σάπκας)"
+locale: "en-US"
+og_image: "/assets/images/miku_versal-min.png"
 description: "Michail Sapkas (Μιχαήλ Σάπκας), PhD at the University of Padova. Researcher in Edge AI & Hardware Accelerators, exploring Particle Physics in CMS at CERN"
 
 logo: /assets/images/infn-min.png
 
 author:
-  name: "Contact and Social"
+  name: "Michail Sapkas"
+  avatar: "/assets/images/miku_versal-min.png"
+  bio: "PhD researcher in Physics at the University of Padova (INFN Padova). Working on edge AI, FPGAs and the AMD Versal AI Engine for particle physics and accelerators, with a talk at CERN."
   location: "Padova, Veneto, Italy"
   email: "michail.sapkas@phd.unipd.it"
   github: "/Msapkas"

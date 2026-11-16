@@ -1,6 +1,6 @@
 ---
-title: "CV"
-description: "Curriculum vitae of Michail Sapkas"
+title: "Michail Sapkas, CV"
+description: "Curriculum vitae of Michail Sapkas: education, research experience, publications, talks and skills in edge AI, FPGAs and particle physics."
 layout: single
 permalink: /cv/
 ---

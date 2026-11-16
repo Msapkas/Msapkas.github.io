@@ -1,6 +1,6 @@
 ---
 title: "Talks & Posters"
-description: "Talks, posters, and presentations, with the posters to read"
+description: "Michail Sapkas talks and posters at RL4AA, TWEPP, TECH-FPA and CERN, with the posters to read."
 layout: single
 permalink: /talks/
 ---

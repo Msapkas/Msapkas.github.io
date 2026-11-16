@@ -1,5 +1,6 @@
 ---
-title: "Michail Sapkas"
+title: "Michail Sapkas | PhD Physicist in Edge AI and FPGAs, University of Padova"
+description: "Michail Sapkas, PhD researcher at the University of Padova and INFN Padova. Edge AI, FPGAs and the AMD Versal AI Engine for CERN and CMS particle physics, plus reinforcement learning for accelerators."
 layout: single
 author_profile: true
 ---
