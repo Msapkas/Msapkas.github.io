@@ -1,53 +1,55 @@
 ---
-header:
-  title: "Education"
-description: "My academic background and degrees"
+title: "Education"
+description: "Academic background, degrees, and courses"
 layout: single
 permalink: /education/
 ---
 
-___________________
+<div class="sj" markdown="0">
 
-You can view and download my [Curriculum Vitae](/assets/cv/CV_30-1-2025_Sapkas_Michail.pdf){:target="_blank"} in the standard Europass format. <br/>
+<section class="sj-hero">
+  <p class="sj-eyebrow">Education</p>
+  <h1 class="sj-title">From physics to <span class="sj-grad">hardware and AI</span></h1>
+  <p>A physics degree in Crete, a Master's in Physics of Data in Padova, and a PhD in the National Programme in Technologies for Fundamental Research in Physics and Astrophysics.</p>
+  <p><a class="sj-btn" href="/assets/cv/CV_30-1-2025_Sapkas_Michail.pdf" target="_blank">Download CV (PDF)</a></p>
+</section>
 
+<div class="sj-timeline">
+  <div class="sj-tl"><small>Nov 2024 &ndash; present</small><h4><span class="sj-kind">PhD</span>National PhD Programme in Technologies for Fundamental Research in Physics and Astrophysics, University of Padova (Computing curriculum, cycle 40)</h4></div>
+  <div class="sj-tl"><small>Oct 2022 &ndash; Sep 2024</small><h4><span class="sj-kind">MSc</span>Physics of Data, University of Padova. Thesis: Beam Control with Fast Reinforcement Learning Inference at the Edge, carried out at KIT, Karlsruhe.</h4></div>
+  <div class="sj-tl"><small>Mar &ndash; Aug 2024</small><h4><span class="sj-kind">Research</span>Visiting researcher, Institute for Data Processing and Electronics (IPE), Karlsruhe Institute of Technology (KIT)</h4></div>
+  <div class="sj-tl"><small>Oct 2021 &ndash; Apr 2022</small><h4><span class="sj-kind">Research</span>Undergraduate research fellow, FORTH (Heraklion), acoustic propagation models for ship-traffic noise</h4></div>
+  <div class="sj-tl"><small>Sep 2013 &ndash; Apr 2022</small><h4><span class="sj-kind">BSc</span>Physics, University of Crete, Heraklion. Thesis: Gaussian Beam Tracing in Underwater Acoustics (grade 10/10).</h4></div>
+</div>
 
-___________________
+<p class="sj-section-title"><strong>Doctoral courses</strong></p>
 
-Since November 2024, I have been enrolled in the **National PhD Program** in Technologies for Fundamental Research in Physics and Astrophysics at the **University of Padova, Italy**.
+<div class="sj-grid">
+  <div class="sj-card sj-reveal"><h3>Deep Neural Networks</h3><p>Prof. Giorgio Carlo Buttazzo &middot; passed</p></div>
+  <div class="sj-card sj-reveal"><h3>Big Data Modelling and Learning</h3><p>Prof. Ester Pantaleo &middot; passed</p></div>
+  <div class="sj-card sj-reveal"><h3>Introduction to Neuromorphic Computing</h3><p>Prof. Andrea Duggento &middot; passed</p></div>
+  <div class="sj-card sj-reveal"><h3>Programmable SoC for Data Acquisition</h3><p>Prof. Andrea Fabbri &middot; passed</p></div>
+</div>
 
-I received my **Bachelor's degree in Physics** from the University of Crete, Heraklion, Greece.
+<p class="sj-section-title"><strong>Where I studied</strong></p>
 
-![University of Crete](/assets/images/uoc_physics-min.jpg)
-<div style="text-align: center; font-size: 15px; color: gray;"> The main entrance of the Physics and Biology Departments of the University of Crete at Voutes, Heraklion. </div>
+<div class="sj-grid">
+  <div class="sj-card sj-reveal">
+    <img src="/assets/images/uoc_physics-min.jpg" alt="University of Crete, Physics department" style="border-radius:12px">
+    <p style="margin-top:.5rem">The University of Crete at Voutes, Heraklion. There I ran more than 30 laboratory experiments and first met machine learning.</p>
+  </div>
+  <div class="sj-card sj-reveal">
+    <img src="/assets/images/dfa.jpg" alt="Dipartimento di Fisica e Astronomia, Padova" style="border-radius:12px">
+    <p style="margin-top:.5rem">The Dipartimento di Fisica e Astronomia &ldquo;G. Galilei&rdquo;, University of Padova, where I learned to program FPGAs.</p>
+  </div>
+  <div class="sj-card sj-reveal">
+    <img src="/assets/images/kara_control_room_pano-min.jpg" alt="KARA control room" style="border-radius:12px">
+    <p style="margin-top:.5rem">The KARA control room at KIT, where my master's work on reinforcement learning for beam instabilities took place.</p>
+  </div>
+</div>
 
-<br />
+<div style="font-size:15px;color:gray;margin-top:2rem">
+[1] Image credit: University of Crete, Google Maps. [2] Image credit: INFN Padova.
+</div>
 
-In the **University of Crete**, I had the privilege to study the classical physics curriculum and also to delve into the modern physics topics. **UoC** also provided me with the opportunity to conduct **more than 30 experiments** in the laboratory and to start my first steps in programming with FORTRAN and Python. It is also here where I was introduced to **Machine Learning** for the first time and it was at this moment that I start contemplating of the potential of these tools in the field of physics.
-
-My **Bachelor's Thesis** was on a niche topic of Applied Mathematics, **Ray Tracing with Gaussian Beams** applied in **Underwater Acoustics**, which is a method to model **wave propagation in non-homogeneous media**. The thesis was a combination of theoretical and computational work, and it was a great opportunity to work under the guidance of [Prof. Michalis Taroudakis](http://users.math.uoc.gr/~taroud/).
-
-I continued my studies with a **Master's degree** in **Physics of Data** from the **University of Padova, Italy**.
-
-![University of Padova](/assets/images/dfa.jpg)
-<div style="text-align: center; font-size: 15px; color: gray;"> 
-[2] The main entrance of Dipartimento di Fisica e Astronomia G. Galilei, Università Degli Studi di Padova. </div>
-
-<br />
-
-This innovative and **multidisciplinary program** was a great opportunity to learn the latest techniques in **data analysis** and machine learning, and to apply them in the field of physics. The program was a combination of theoretical and practical work, and it is here where I had the unique opportunity to learn to program embedded and reprogrammable hardware, **Field Programmable Gate Arrays (FPGAs)**. At the same time, I delivered multiple projects with **hands on experience** in **Deep Learning Models**, **Inference** and worked on modern **Tensor Network** techniques inspired by Quantum Information Theory.
-
-I conducted my **Master's Thesis** at the **Institute for Data Processing and Electronics (IPE)** at the **Karlsruhe Institute of Technology (KIT)**, Germany, under the supervision of Prof. Michelle Caselle and Dr. Luca Scomparin. Their revolutionary work on **Reinforcement Learning** for **Beam Instabilities** at the **Karlsruhe Research Accelerator (KARA)** synchrotron light source and accelerator test facility was a great opportunity to learn the ways of the **AMD Xilinx Versal AI Engine** and to develop **Deep Learning Models** for this specific architecture.
-
-![KARA Control Room](/assets/images/kara_control_room_pano-min.jpg)
-<div style="text-align: center; font-size: 15px; color: gray;"> KARA Control room, Personal Archive. </div>
-
-<br />
-
-___________________
-
-
-<div style="text-align: left; font-size: 15px; color: gray;"> 
-[1] University of Crete Image Credit: https://maps.app.goo.gl/Gb8TaE3A4oV2FXZg8 , Google Maps </div>
-
-<div style="text-align: left; font-size: 15px; color: gray;"> 
-[2] University of Padova Image Credit: https://www.pd.infn.it/eng/dove-siamo-2/ , INFN Padova </div>
+</div>

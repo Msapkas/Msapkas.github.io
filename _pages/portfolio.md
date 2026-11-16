@@ -1,53 +1,92 @@
 ---
-header:
-  title: "Portfolio"
-description: "Short description of my past projects and work followed by links to the full descriptions in github repositories"
+title: "Projects"
+description: "Selected research, hardware and software projects"
 layout: single
 permalink: /portfolio/
 ---
 
-___________________
+<div class="sj" markdown="0">
 
-Showcase of my work or projects here.
+<section class="sj-hero">
+  <p class="sj-eyebrow">Portfolio</p>
+  <h1 class="sj-title">Projects &amp; <span class="sj-grad">builds</span></h1>
+  <p>Hardware, machine learning and physics projects, from FPGA firmware to reinforcement learning agents. Links go to papers, theses and code where they exist.</p>
+</section>
 
-## Master Thesis
-### [Beam Control with Fast Reinforcement Learning Inference at the Edge](\assets\thesis\Sapkas_Michail_Beam_Control_with_Fast_Reinforcement_Learning_Inference_at_the_Edge.pdf){:target="_blank"}
+<div class="sj-grid">
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--ok">Published</span>
+    <h3>Latency-constrained GRU on the Versal AI Engine</h3>
+    <p>Custom workload distribution across AIE vector processors, with a hybrid AIE and PL design for real-time readout inference.</p>
+    <p><a href="/publications/">Paper and proceedings &rarr;</a></p>
+    <span class="sj-tag">AMD Versal</span><span class="sj-tag">RNN</span><span class="sj-tag">FPGA</span>
+  </div>
 
-- Trying to modulate the RF cavity of a Synchrotron Light Source by leveraging Reinforcement Learning, resulted in a hardware implementation of a model that belongs to the family of Recurrent Neural Networks (RNNs), the Gated Recurrent Unit (GRU). The implementation was realized on the Versal AI Engine, which is a novel architecture launched by AMD Xilinx and extremely efficient in performing the main numerical operations needed by the model, namely Matrix - Vector multiplications.
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--wip">In progress</span>
+    <h3>CNN hit detection for a CAEN digitizer</h3>
+    <p>Real-time 1D CNN for particle hit timing, converted with HLS4ML and packaged as a Vivado IP with an input buffer and a 32-bit hit-map output. Developed in collaboration with CAEN.</p>
+    <span class="sj-tag">HLS4ML</span><span class="sj-tag">Vivado</span><span class="sj-tag">CNN</span>
+  </div>
 
-- RNNs have been designed to handle time series, and they are the perfect candidates to handle this kind of task. Although RNNs don't parallelize well, their ability to distill input and pass information into the hidden state, could be beneficial for real time control tasks.
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--wip">In progress</span>
+    <h3>Mini Drift Tubes muon telescope</h3>
+    <p>Machine learning inference for muon tracking and timing, and a TDC pipeline on an Artix UltraScale+ FPGA with DMA-over-PCIe readout.</p>
+    <span class="sj-tag">TDC</span><span class="sj-tag">PCIe</span><span class="sj-tag">Transformer</span>
+  </div>
 
-- I will firstly introduce the AI Engine and its features. Second, I will introduce the GRU cell, the main numerical operations and the constraints introduced by RNN models. Then I will show how numerical operations are being implemented in the AI Engine and its memory limitations. Finally, I will discuss how we tackled the lack of built-in activation functions, since the tanh and sigmoid function implementations are needed.
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--ok">Thesis</span>
+    <h3>Beam control with fast RL inference at the edge</h3>
+    <p>MSc thesis, carried out at KIT. A reinforcement learning agent controls the RF cavity at the KARA light source, with a GRU deployed on the AI Engine.</p>
+    <p><a href="/assets/thesis/Sapkas_Michail_Beam_Control_with_Fast_Reinforcement_Learning_Inference_at_the_Edge.pdf" target="_blank">Read the thesis (PDF) &rarr;</a></p>
+    <span class="sj-tag">RL</span><span class="sj-tag">KARA</span>
+  </div>
 
-___________________
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--ok">Thesis</span>
+    <h3>Gaussian beam tracing in underwater acoustics</h3>
+    <p>BSc thesis. Theory and applications of Gaussian beam ray tracing, benchmarked against BELLHOP and KRAKEN on test cases including real-world data.</p>
+    <p><a href="/assets/thesis/Gaussian%20Beam%20Tracing%20in%20Underwater%20Acoustics%20-%20Theory%20and%20Applications%20-%20Michail%20Sapkas.pdf" target="_blank">Read the thesis (PDF) &rarr;</a></p>
+    <span class="sj-tag">Acoustics</span><span class="sj-tag">Physics</span>
+  </div>
 
-## Management of Physics Datasets Project
-### [Distributed Computing using four Nvidia Jetson Nanos](https://github.com/Msapkas/Distributed-Computing-for-Physics-Simulation-and-Computation){:target="_blank"}
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--ok">Done</span>
+    <h3>Distributed computing with four Jetson Nanos</h3>
+    <p>A demonstrator that spreads physics simulations (2D Ising model and a 1D particle chain) across four nodes using Dask.</p>
+    <p><a href="https://github.com/Msapkas/Distributed-Computing-for-Physics-Simulation-and-Computation" target="_blank">Code on GitHub &rarr;</a></p>
+    <span class="sj-tag">Dask</span><span class="sj-tag">HPC</span>
+  </div>
 
-This project is a demonstrator for the use of **distributed computing** for physics simulations by connecting four Jetson Nano devices via a network switch and leveraging **Dask** to distribute computational loads.
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--ok">Done</span>
+    <h3>Reinforcement learning on the Lunar Lander</h3>
+    <p>Comparison of DQN, DRQN (recurrent), DDPG and PPO agents on the Lunar Lander environment, including stability analyses over repeated runs.</p>
+    <span class="sj-tag">DQN</span><span class="sj-tag">PPO</span><span class="sj-tag">DDPG</span><span class="sj-tag">DRQN</span>
+  </div>
 
-![Connected Jetsons](/assets/images/jet.jpg)
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--ok">Done</span>
+    <h3>Secure boot on the Versal VCK190</h3>
+    <p>Boot-image signing and BBRAM key provisioning for the VCK190 platform, as a contract project with ThinkQuantum in Padova.</p>
+    <span class="sj-tag">Security</span><span class="sj-tag">Versal</span>
+  </div>
 
-Two simulations were implemented:
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--wip">Up next</span>
+    <h3>Neural reverb with tweakable weights</h3>
+    <p>A neural network trained on dry samples to apply reverbs, with knobs that reshape the output sound by changing layer weights and biases.</p>
+    <span class="sj-tag">Audio</span><span class="sj-tag">Neural nets</span>
+  </div>
 
-- 2D Ising Model: The simulation models the evolution of a spin lattice using the Metropolis algorithm, where multiple grids are distributed across multiple computing nodes, enabling parallel updates.
+  <div class="sj-card sj-reveal">
+    <span class="sj-tag sj-tag--wip">Up next</span>
+    <h3>RL agent that plays a modular synth</h3>
+    <p>An agent that patches sounds in VCV Rack, rewarded for patches that sound good.</p>
+    <span class="sj-tag">RL</span><span class="sj-tag">Music</span>
+  </div>
+</div>
 
-![Parallel 2D Ising Model](/assets/images/parall_energ-min.png)
-
-- 1D Particle Chain: A thermodynamic simulation of a 1D chain of particles, where various physical properties (e.g. energy, temperature) are computed, by simulating a huge chain with smaller parallel subchain chunks.
-
-___________________
-
-
-## Bachelor Thesis
-### [Gaussian Beam Tracing in Underwater Acoustics](\assets\thesis\Gaussian Beam Tracing in Undewater Acoustics - Theory and Applications - Michail Sapkas.pdf){:target="_blank"}
-
-- Underwater acoustics is the study of sound in water, typically using hydrophones to detect pressure variations or actively generating sound for information acquisition. Unlike electromagnetic waves, sound propagates effectively in water, making it valuable for applications such as seismology, biological monitoring, ocean temperature measurement, and underwater communication.
-
-- Ray tracing, a method used to model sound propagation, has been extensively developed, with the BELLHOP program.
-
-![BELLHOP vs KRAKEN](/assets/images/uac-min.png)
-
-- This thesis explores ray tracing modeling, beginning with fundamental concepts in underwater acoustics, followed by a heuristic and mathematical approach to geometrical ray tracing, connecting it to wave equations and Gaussian beam extensions. While ray tracing offers computational advantages, it is a high-frequency approximation with limitations, which can be mitigated by Gaussian beam methods. The study benchmarks BELLHOP against the KRAKEN normal mode program through test cases, including real-world data, to evaluate its effectiveness in complex underwater environments.
-
-___________________
+</div>

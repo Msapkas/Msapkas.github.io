@@ -1,65 +1,69 @@
 ---
-header:
-  title: "Current Research Interests"
-description: "My current academic pursuits and research interests"
+title: "Research"
+description: "Edge AI, FPGAs, and reinforcement learning for particle physics and accelerators"
 layout: single
 permalink: /research/
 ---
 
-A brief introduction on the topics that I am currently working on.<br/>
+<div class="sj" markdown="0">
 
-![Poster Torino](/assets/images/poster_torino.png)
-<div style="text-align: center; font-size: 15px; color: gray;"> Poster </div>
+<section class="sj-hero">
+  <p class="sj-eyebrow">Current research</p>
+  <h1 class="sj-title">Machine learning <span class="sj-grad">at the edge of the detector</span></h1>
+  <p>Physics experiments generate data faster than it can be stored. My work is about putting neural networks directly into the readout chain, on FPGAs and AI Engines, so that decisions are made in nanoseconds.</p>
+</section>
 
-<br />
+<div class="sj-grid">
+  <div class="sj-card sj-reveal">
+    <span class="sj-kind">Hardware</span>
+    <h3>GRU on the AMD Versal AI Engine</h3>
+    <p>A Gated Recurrent Unit designed for latency-constrained inference on the VCK190. The design uses row-wise matrix-vector products, a hybrid AIE and programmable logic dataflow, and look-up tables for tanh and sigmoid.</p>
+    <span class="sj-tag sj-tag--ok">Published, JINST 2026</span><span class="sj-tag">AIE</span><span class="sj-tag">RNN</span>
+  </div>
+  <div class="sj-card sj-reveal">
+    <span class="sj-kind">Detector</span>
+    <h3>1D CNN trigger for a CAEN digitizer</h3>
+    <p>A three-layer CNN that flags particle hits in digitizer waveforms. It is converted to VHDL with HLS4ML at fixed-point precision, integrated with a 32-comparator hit-map output, and closes timing at 8&nbsp;ns with a 182-cycle latency.</p>
+    <span class="sj-tag sj-tag--wip">In progress</span><span class="sj-tag">HLS4ML</span><span class="sj-tag">FPGA</span>
+  </div>
+  <div class="sj-card sj-reveal">
+    <span class="sj-kind">Detector</span>
+    <h3>Mini Drift Tubes muon telescope</h3>
+    <p>Machine learning for muon tracking and timing (GRU and Transformer models), plus a time-to-digital pipeline on an Artix UltraScale+ FPGA with XDMA/PCIe readout, for the telescope mounted at the Padova Quantum Lab.</p>
+    <span class="sj-tag sj-tag--wip">In progress</span><span class="sj-tag">TDC</span><span class="sj-tag">PCIe</span>
+  </div>
+  <div class="sj-card sj-reveal">
+    <span class="sj-kind">Accelerators</span>
+    <h3>Reinforcement learning for accelerators</h3>
+    <p>Control of beam instabilities at the KARA synchrotron light source, with a small recurrent agent deployed on hardware. Presented at the RL4AA'26 collaboration workshop.</p>
+    <span class="sj-tag">RL</span><span class="sj-tag">KARA</span>
+  </div>
+</div>
 
-___________________
+<h2>Why recurrent networks on AI Engines?</h2>
 
-# AMD Xilinx Versal AI Engine
+Recurrent networks are a natural fit for detector and control problems because they compress what they have seen into a hidden state. That state is also what makes them hard to accelerate: each step depends on the one before it. The AI Engine's vector processors and local memory let me spread those matrix-vector products across tiles, which keeps the latency low without quantizing the model.
 
-![AIE Array](/assets/images/aie_array-min.png)
-<div style="text-align: center; font-size: 15px; color: gray;"> 
-[1] A graphical representation of the AI Engine Array. </div>
+!<a href="/assets/images/aie_array-min.png">The AI Engine array</a>
+<div style="text-align: center; font-size: 15px; color: gray;"> A graphical representation of the AI Engine array. </div>
 
-<br />
+<h2>CMS Trigger Particle Flow</h2>
 
-With the rise of Artificial Intelligence came also an ever increasing need to compute specialized tasks better, 
-faster and more. To tackle the challenges that arise with this new type of workload, AMD Xilinx proposes the Versal 
-Adaptive Computing Accelerating Platform (ACAP). A new accelerator module has been introduced, a 2D array of 400 tiles, 
-the AI Engine, which moves away from the Von Neuman architecture by placing memory and vectorized cores in the same unit (tile). 
-The tiles communicate with interconnects and memory sharing, and the whole Array can access PL resources via interfacing tiles. 
-We explore the capabilities of the AI Engine for physics applications at the edge.
+Particle Flow links the objects seen by the CMS sub-detectors. Today it runs in software in the High Level Trigger at about 100 kHz. With the Phase-2 upgrade the target is to run it at the 40 MHz collision rate, which makes it a strong candidate for hardware acceleration.
 
-# Particle Flow for the CMS Trigger 
+!<a href="/assets/images/pf_cms-min.png">Particle Flow in CMS</a>
+<div style="text-align: center; font-size: 15px; color: gray;">
+Particles that collide at the crossing of the proton beams create a shower that travels through the CMS sub-detectors. Image credit: CMS Open Data workshop.</div>
 
-![Particle Flow CMS](/assets/images/pf_cms-min.png)
-<div style="text-align: center; font-size: 15px; color: gray;"> 
-[2] Particles that interact (aka "Collide") at the crossing of the proton beams, create a shower of particles
-that travel through the CMS sub detectors. First the Inner Tracker, then the Calorimeters and finally the Muon detector. We 
-need to be able to Trigger Data Acquisition in less than the collision rate, which is 25 nanoseconds. </div>
+<div class="sj-grid">
+  <div class="sj-card sj-reveal">
+    <img src="/assets/images/gru-min.png" alt="GRU cell diagram" style="border-radius:12px">
+    <p style="margin-top:.5rem">The Gated Recurrent Unit cell, the model at the heart of my AI Engine work. Image credit: ResearchGate.</p>
+  </div>
+  <div class="sj-card sj-reveal">
+    <img src="/assets/images/poster_torino.png" alt="Conference poster" style="border-radius:12px">
+    <p style="margin-top:.5rem">A poster from one of my recent presentations.</p>
+  </div>
+</div>
 
-<br />
-
-High Energy Physics experiments are a clear instance of extreme application for computing. They require the uttermost latency constraints and reliability. One suitable algorithm to run on the AI Engine is the CMS Triger Particle Flow, which aims to link together the physical objects seen by the subdetector systems. Until now, this task has been done in software in the High Level Trigger, at a rate of 100KHz, but with the phase 2 upgrade of CMS we are targeting to bring it at the timing of 40 MHz, the same pace as the collisions.
-
-# A Gated Recurrent Unit implementation for the AI Engine
-
-![The Gated Recurrent Unit Cell](/assets/images/gru-min.png)
-<div style="text-align: center; font-size: 15px; color: gray;"> 
-The Gated Recurrent Unit (GRU) Cell is a graphical representation of the numerical operations of the model. [3] </div>
-
-<br />
-
-Physics experiments can greatly benefit from inference models, either for detection or for active control of the experiment itself. In collaboration with KIT IPE, we explored an approach to controlling a Synchrotron Light Source using Reinforcement Learning, leading to the implementation of a Gated Recurrent Unit in AI Engines. RNNs are perfect candidates for this specific task, since they work by distilling and compressing input information in their hidden state, which serves as memory. This way, we can feed small context windows of input observations to a lightweight model, very fast, respecting the memory and latency constraints of the problem.
-
-_________________________________________________________
-
-
-<div style="text-align: left; font-size: 15px; color: gray;"> 
-[1] AI Engine Image Credit: AMD Xilinx </div>
-
-<div style="text-align: left; font-size: 15px; color: gray;"> 
-[2] Particle Flow Image Credit: https://cms-opendata-workshop.github.io/workshop2023-lesson-physics-objects/aio/index </div>
-
-<div style="text-align: left; font-size: 15px; color: gray;"> 
-[3] Gated Recurrent Unit Image Credit: https://www.researchgate.net/figure/Gated-Recurrent-Unit-GRU_fig3_331848495 </div>
+</div>

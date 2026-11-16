@@ -1,16 +1,78 @@
 ---
+title: "Michail Sapkas"
+layout: single
+author_profile: true
 ---
 
-Welcome to my personal page. I am **Michail**, a trained physicist and **PhD student** at the **University of Padova**.
+<div class="sj" markdown="0">
 
-![Mare Nostrum 5](/assets/images/miku_bsc-min.jpg)
-<div style="text-align: center; font-size: 15px; color: gray;"> Visiting Mare Nostrum 5 at the Barcelona Supercomputing Center. </div>
+<section class="sj-hero">
+  <canvas id="sj-particles" aria-hidden="true"></canvas>
+  <p class="sj-eyebrow">PhD Researcher &middot; University of Padova &middot; INFN Padova</p>
+  <h1 class="sj-title">Michail <span class="sj-grad">Sapkas</span></h1>
+  <p class="sj-greek">Μιχαήλ Σάπκας</p>
+  <p class="sj-typed"><span id="sj-typed"></span><span class="sj-caret">|</span></p>
+  <div class="sj-cta">
+    <a class="sj-btn sj-btn--primary" href="/portfolio/">Projects</a>
+    <a class="sj-btn" href="/publications/">Publications</a>
+    <a class="sj-btn" href="/talks/">Talks &amp; posters</a>
+    <a class="sj-btn" href="/cv/">CV</a>
+  </div>
+</section>
 
-<br />
+<div class="sj-stats">
+  <div class="sj-stat sj-reveal"><strong data-count="1">1</strong><span>journal paper (JINST 2026)</span></div>
+  <div class="sj-stat sj-reveal"><strong data-count="6">6</strong><span>talks and posters</span></div>
+  <div class="sj-stat sj-reveal"><strong data-count="9">9</strong><span>conferences, schools and workshops</span></div>
+  <div class="sj-stat sj-reveal"><strong data-count="4">4</strong><span>active research lines</span></div>
+</div>
 
-I am part of the [BOOST Lab](http://boostlab.dfa.unipd.it) group, our interest is mainly focused in particle physics and in particular in the **CMS experiment** at **CERN**, but I am also exploring the capabilities of **hardware accelerators for AI applications** at the edge for physics experiments. If you'd like to know more about my skill set and educational background, please visit [my education](/education) page.
+<h2>About me</h2>
 
-I am currently working with the **Versal AI Engine**, the **VCK190 evaluation board**, and the **Vitis Unified** Software Platform to develop algorithms like the CMS trigger **Particle Flow**, and artificial intelligence models like the **Gated Recurrent Unit (GRU)**. To know more, please visit [my current research interests](/research) page.
+I am a <strong>PhD student</strong> in Technologies for Fundamental Research in Physics and Astrophysics at the <strong>University of Padova</strong>, working with the <strong>INFN Padova</strong> group on <strong>edge AI and hardware accelerators</strong> for particle physics. I trained as a physicist, moved into deep learning through a Master's in *Physics of Data*, and found my way into hardware through FPGAs and the <strong>AMD Versal AI Engine</strong>.
 
-![With the Versal AI Engine VCK190 Evaluation Kit](/assets/images/miku_versal-min.png)
-<div style="text-align: center; font-size: 15px; color: gray;"> Me and my friend V! in my temporary office at IPE. </div>
+My work sits at the point where physics needs decisions in nanoseconds: running recurrent neural networks fast enough for detector readout, for accelerator control, and for the CMS trigger at <strong>CERN</strong>. I am also part of the <a href="http://boostlab.dfa.unipd.it">BOOST Lab</a> group, with interests in particle physics and the <strong>CMS experiment</strong>.
+
+<p class="sj-section-title"><strong>Right now</strong></p>
+
+<div class="sj-grid">
+  <a class="sj-card sj-reveal" href="/research/" style="text-decoration:none;color:inherit">
+    <span class="sj-kind">Research</span>
+    <h3>GRU inference on the Versal AI Engine</h3>
+    <p>Latency-constrained recurrent networks on the VCK190, with a hybrid AIE and FPGA dataflow.</p>
+  </a>
+  <a class="sj-card sj-reveal" href="/portfolio/" style="text-decoration:none;color:inherit">
+    <span class="sj-kind">Project</span>
+    <h3>CNN trigger for a CAEN digitizer</h3>
+    <p>A real-time 1D CNN that detects particle hits directly in the digitizer FPGA.</p>
+  </a>
+  <a class="sj-card sj-reveal" href="/portfolio/" style="text-decoration:none;color:inherit">
+    <span class="sj-kind">Detector</span>
+    <h3>Mini Drift Tubes muon telescope</h3>
+    <p>Time-to-digital pipeline and machine learning for muon tracking and timing.</p>
+  </a>
+</div>
+
+<p class="sj-section-title"><strong>Latest news</strong></p>
+
+<div class="sj-timeline">
+  <div class="sj-tl"><small>Sep 2026</small><h4>Visiting researcher at SLAC National Accelerator Laboratory, Stanford, from September 2026</h4></div>
+  <div class="sj-tl"><small>Apr 2026</small><h4>Talk at RL4AA'26, 4th collaboration workshop on Reinforcement Learning for Autonomous Accelerators, Liverpool</h4></div>
+  <div class="sj-tl"><small>2026</small><h4>Paper on the latency-constrained GRU in the Versal AIE published in the Journal of Instrumentation (JINST 21, C03015)</h4></div>
+  <div class="sj-tl"><small>Oct 2025</small><h4>Talk at TWEPP 2025, Topical Workshop on Electronics for Particle Physics, Crete</h4></div>
+</div>
+
+<p class="sj-section-title"><strong>Moments</strong></p>
+
+<div class="sj-grid">
+  <div class="sj-card sj-reveal">
+    <img src="/assets/images/miku_versal-min.png" alt="Versal AI Engine VCK190 evaluation kit" style="border-radius:12px;margin-bottom:.6rem">
+    <p>With the Versal AI Engine VCK190 evaluation kit, in my temporary office at IPE.</p>
+  </div>
+  <div class="sj-card sj-reveal">
+    <img src="/assets/images/miku_bsc-min.jpg" alt="Mare Nostrum 5 at the Barcelona Supercomputing Center" style="border-radius:12px;margin-bottom:.6rem">
+    <p>Visiting Mare Nostrum 5 at the Barcelona Supercomputing Center.</p>
+  </div>
+</div>
+
+</div>
