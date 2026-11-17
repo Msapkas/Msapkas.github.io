@@ -1,0 +1,41 @@
+# Events: conferences, workshops, schools, hackathons, visits.
+# Most recent first. Fields: when (display date), kind, title, note (optional).
+- when: "Sep 2026"
+  kind: Visit
+  title: "Visiting researcher, SLAC National Accelerator Laboratory, Stanford (upcoming)"
+- when: "2026"
+  kind: Accepted
+  title: "TWEPP 2026 and IEEE NSS MIC RTSD (abstracts accepted)"
+- when: "30 Mar &ndash; 1 Apr 2026"
+  kind: Workshop
+  title: "4th Collaboration Workshop on Reinforcement Learning for Autonomous Accelerators (RL4AA'26), University of Liverpool."
+  note: "Poster and talk."
+- when: "16 &ndash; 19 Feb 2026"
+  kind: Retreat
+  title: "TECH-FPA PhD Retreat, LNS, Catania."
+  note: "Poster."
+- when: "24 &ndash; 27 Nov 2025"
+  kind: Hackathon
+  title: "2nd AI-INFN Advanced Hackathon, Collegio Borromeo, Pavia."
+  note: "HLS4ML on AMD FPGAs and other AI applications."
+- when: "4 &ndash; 10 Oct 2025"
+  kind: Workshop
+  title: "TWEPP 2025, Topical Workshop on Electronics for Particle Physics, Rethymno, Crete."
+  note: "Talk."
+- when: "2025"
+  kind: Forum
+  title: "2nd FPGA Developers' Forum (FDF)."
+  note: "Talk on a low-latency GRU for the AMD Versal AI Engine."
+- when: "2025"
+  kind: School
+  title: "ISOTDAQ 2025, International School of Trigger and Data Acquisition"
+- when: "2025"
+  kind: Conference
+  title: "HiPEAC 2025"
+- when: "2025"
+  kind: Workshop
+  title: "Workshop on Electronics for Physics Experiments and Applications, INFN."
+  note: "Poster."
+- when: "2025"
+  kind: Course
+  title: "Advanced course in FPGA programming"
