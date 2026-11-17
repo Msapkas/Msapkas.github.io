@@ -11,9 +11,9 @@ permalink: /cv/
   <p class="sj-eyebrow">Curriculum vitae</p>
   <h1 class="sj-title">Michail <span class="sj-grad">Sapkas</span></h1>
   <p>Education, research experience, publications, talks and skills.</p>
-  <p><a class="sj-btn sj-btn--primary" href="/assets/cv/CV_30-1-2025_Sapkas_Michail.pdf" target="_blank">Download PDF</a></p>
+  <p><a class="sj-btn sj-btn--primary" href="/assets/cv/CV_Sapkas_Michail.pdf" target="_blank">Download PDF</a></p>
 </section>
 
-<iframe class="sj-embed" src="/assets/cv/CV_30-1-2025_Sapkas_Michail.pdf#view=FitH" title="Curriculum vitae" loading="lazy" style="height:900px"></iframe>
+<iframe class="sj-embed" src="/assets/cv/CV_Sapkas_Michail.pdf#view=FitH" title="Curriculum vitae" loading="lazy" style="height:900px"></iframe>
 
 </div>

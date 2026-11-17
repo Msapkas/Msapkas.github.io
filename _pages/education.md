@@ -11,7 +11,7 @@ permalink: /education/
   <p class="sj-eyebrow">Education</p>
   <h1 class="sj-title">From physics to <span class="sj-grad">hardware and AI</span></h1>
   <p>A physics degree in Crete, a Master's in Physics of Data in Padova, and a PhD in the National Programme in Technologies for Fundamental Research in Physics and Astrophysics.</p>
-  <p><a class="sj-btn" href="/assets/cv/CV_30-1-2025_Sapkas_Michail.pdf" target="_blank">Download CV (PDF)</a></p>
+  <p><a class="sj-btn" href="/assets/cv/CV_Sapkas_Michail.pdf" target="_blank">Download CV (PDF)</a></p>
 </section>
 
 <div class="sj-timeline">
